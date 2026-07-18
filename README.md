@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/adithyaadiga">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Adithyaadiga21&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Adithyaadiga12&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -48,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithyaadiga21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyaadiga21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithyaadiga12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyaadiga12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adithyaadiga21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Adithyaadiga12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </div>
 
 ---
@@ -61,7 +61,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithyaadiga21&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithyaadiga12&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -70,9 +70,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adithyaadiga21/Adithyaadiga21/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adithyaadiga21/Adithyaadiga21/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Adithyaadiga21/Adithyaadiga21/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adithyaadiga12/Adithyaadiga12/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adithyaadiga12/Adithyaadiga12/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Adithyaadiga12/Adithyaadiga12/output/github-snake.svg"/>
   </picture>
 </div>
 
